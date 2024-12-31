@@ -19,13 +19,14 @@ int main() {
     printf("população %d\n", pessoas);
     printf("area %f\n", area);
     printf("pib %f\n", pib);
-    printf("turismo %d\n", pib);
+    printf("turismo %d\n", turismo);
 
-    print("Digite o nome do estado\n");
-    scanf("Estado %c"\n, &estado);
+    printf("Digite o nome do estado\n");
+    scanf("Estado %c\n", &estado);
     printf("Digite o codigo da carta\n");
-    scanf("")
-printf("Digite o numero da população\n");
+    scanf("codigo %e\n", codigo);
+    printf("Digite o numero de pessoas");
+
 
 
 
